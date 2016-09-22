@@ -5,9 +5,9 @@ tag elements
 ======================================== */
 
 body {
-  background-color: black;
+  background-color: #31595f;
   color: #cacaca;
-  font-family: sans-serif;
+  font-family: initial;
   margin: 0;
   font-size: 1.2em;
 }
