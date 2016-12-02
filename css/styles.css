@@ -29,8 +29,8 @@ class elements
   text-align: center;
   padding-right: 10px;
   color: rgba(0,0,0,0.6);
-text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
-                 0px -5px 35px rgba(255,255,255,0.3);
+  text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                   0px -5px 35px rgba(255,255,255,0.3);
 }
 
 
@@ -58,15 +58,6 @@ media queries
     color: #e6e6e6;
   }
 
-/*body {
-  background-color: #ff9765;
-  font-family: initial;
-  font-size: 1.3em;
-  padding-left: 1em;
-  padding-right: 1em;
-  line-height: 1.4em;
-}*/
-
   footer {
     display: block;
     text-align: center;
@@ -93,6 +84,7 @@ media queries
   /* ***************************************
   flex-box 
   **************************************** */
+  
   body {
     display: flex;
     flex-direction: column;
