@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/fcvidoto/fcvidoto#readme",
   "dependencies": {
-    "express": "^4.14.0"
   }
 }
